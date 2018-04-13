@@ -3,4 +3,6 @@ def square_array(array)
 
   array.each do |array.square|
 
+  array.push
+
 end
