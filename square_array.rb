@@ -4,5 +4,5 @@ def square_array(array)
   array.each do |toSquare|
     holdsNewArray.push = toSquare * toSquare
   end
-  return holdsNewArray
+   holdsNewArray
 end
