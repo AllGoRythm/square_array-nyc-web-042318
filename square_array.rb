@@ -1,3 +1,4 @@
 def square_array(array)
-  holdNewArray = []
+  holdNewArray = [array.each]
+
 end
