@@ -1,5 +1,5 @@
 def square_array(array)
   holdsNewArray = []
 
-  array.each 
+  array.each do ||
 end
